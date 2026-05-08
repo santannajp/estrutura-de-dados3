@@ -1,0 +1,12 @@
+2026-05-07 21:42:04.126 | INFO     | __main__:soma:8 - 2
+2026-05-07 21:42:04.127 | INFO     | __main__:soma:9 - 3
+2026-05-07 21:42:04.127 | INFO     | __main__:soma:10 - 5
+2026-05-07 22:34:50.502 | CRITICAL | __main__:soma:13 - voce tem que digitar valores corretos
+2026-05-07 22:34:50.502 | CRITICAL | __main__:soma:13 - voce tem que digitar valores corretos
+2026-05-07 22:34:50.502 | CRITICAL | __main__:soma:13 - voce tem que digitar valores corretos
+2026-05-07 22:35:10.541 | CRITICAL | __main__:soma:13 - voce tem que digitar valores corretos
+2026-05-07 22:35:10.541 | CRITICAL | __main__:soma:13 - voce tem que digitar valores corretos
+2026-05-07 22:35:10.542 | CRITICAL | __main__:soma:13 - voce tem que digitar valores corretos
+2026-05-07 22:35:52.179 | INFO     | __main__:soma:10 - voce digitou os valores corretos, parabens 5
+2026-05-07 22:35:52.179 | INFO     | __main__:soma:10 - voce digitou os valores corretos, parabens 9
+2026-05-07 22:35:52.179 | CRITICAL | __main__:soma:13 - voce tem que digitar valores corretos
